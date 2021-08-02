@@ -2,3 +2,4 @@ Acme-CPAN-Testers-DevelCheckOS-*
 .build
 *~
 nytprof*
+.DS_Store
